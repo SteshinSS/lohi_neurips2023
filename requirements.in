@@ -1,0 +1,31 @@
+# Tools
+mypy
+black
+wandb
+flake8
+pip-tools
+tqdm
+PyYAML
+
+# Data Science
+scikit-learn
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+ipython
+jupyter
+plotly
+matplotlib-venn
+deepchem
+torch 
+torchvision 
+torchaudio
+mip
+lightning
+
+# Chemistry
+rdkit-pypi
+PyTDC
+wilds
