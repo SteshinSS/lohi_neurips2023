@@ -81,4 +81,11 @@ deepchem==2.7.1
 Please adhere to these specific versions, as the latest versions may have conflicts.
 
 ## Citation
-Soon.
+```
+@inproceedings{steshin2023hi,
+  title={Lo-Hi: Practical ML Drug Discovery Benchmark},
+  author={Steshin, Simon},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+  year={2023}
+}
+```
